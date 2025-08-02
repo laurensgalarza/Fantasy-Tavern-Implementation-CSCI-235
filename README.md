@@ -57,6 +57,6 @@ Quantity: 15
 ```
 
 ## Future Additions
-- Connecting inventory to combat mechanics (e.g., choose between potions when healing, what weapon to strike with, etc.
+- Connecting inventory to combat mechanics (e.g., choose between potions when healing, what weapon to strike with, etc.)
 - Evolve the project with visuals and interactivite gameplay.
 
