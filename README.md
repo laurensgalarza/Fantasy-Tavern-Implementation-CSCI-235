@@ -1,4 +1,4 @@
-# Fantasy Tavern Simulation – Software Anaylsis and Design 2 Term Project
+# Fantasy Tavern Simulation – Software Analysis and Design 2 Term Project
 Built a C++ fantasy tavern simulation with RPG-style characters, combat, and inventories. This repo has no code to uphold Hunter College's Plagiarism Policy.
 
 ## Characters
